@@ -9,7 +9,7 @@ package array;
  *
  * @author Com 8
  */
-public class Array {
+public class LargestInArray {
 
     /**
      * @param args the command line arguments
