@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package AddTwoNumUsingFunction;
 
 /**
  *
@@ -11,7 +11,7 @@ package javaapplication1;
  */
 import java.util.Scanner;
 
-public class JavaApplication1 {
+public class AddTwoNumUsingFunction {
     
     public static int add(int num1,int num2){
         return num1+num2;
